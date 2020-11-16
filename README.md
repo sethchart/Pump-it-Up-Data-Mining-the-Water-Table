@@ -4,7 +4,7 @@ In this post, I will tell you about building my submission to the [Pump it Up: D
 For the purposes of the competition, the model is assessed in terms of the classification rate, also commonly called [accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision).
 The classification rate is a number between zero and one with zero indicating that all prediction were wrong, one indicating all predictions were correct, and 0.7 indicating that, on average, seven out of ten predictions are correct.
 
-My model produced an accuracy score of 0.8217. As of the time of writing, the best reported score for the competition is 0.8294 and my model ranks 490 out of 10,304 submissions.
+My model produced an accuracy score of 0.8227. As of the time of writing, the best reported score for the competition is 0.8294 and my model ranks 385 out of 10,307 submissions.
 
 # Main Takeaway
 I was surprised by the performance that I was able to achieve without any feature engineering or manual data cleaning. This model is an exercise in applying off-the-shelf tools with minimal effort to great effect. 
